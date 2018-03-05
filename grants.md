@@ -61,16 +61,17 @@ It's a good idea to explore an idea and get feedback before posting a proposal.
 
 ### 2. Approving a proposal
 We'll make the first week of each trimestral when we approve the next grants.
-We will discuss the proposals for the given months as a community and decide which we're going to fund. The community may suggest changes to a proposal. A grant that is not included in a trimestral might be in the next. If a grant is turned down, you can still make another grant.
+We will discuss the proposals for the given months in our assembly and decide which we're going to fund. The community may suggest changes to a proposal. A grant that is not included in a trimestral might be in the next. If a grant is turned down, you can still make another grant.
 
 We'll only make a few grants at a time, so that we can learn how it goes and improve the process later.
 
 ### 3. Go for it!
-When the proposal is accepted, the grant will be paid up-front or on a monthly rate (based on funders/backers availability).
+When the proposal is accepted, the grant will be paid up-front or on a monthly rate (based on funders/backers liquidity).
 
 **Grant requirement**: 
 - keep a Dev Diary about what you're doing
-- Partecipation on monthly assembly
+- Define plans on our dashboard and log activities
+- Partecipate on monthly assembly
 
 > Why a Dev Diary: this is the simple way to share learning, and for everyone to get excited about what you're doing. We can also reference it later for others interested in funding, to showcase what awesome things we've done. 
 Also it encourages transparency among working groups and funders.
