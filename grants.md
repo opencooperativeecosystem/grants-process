@@ -28,14 +28,16 @@ What we don't want:
 The most valuable thing we have is _the community_. Half the reason for oce budget distribution is to give everyone
 a fair opportunity to get paid to work on OCE.
 
-## An experiment in grants
+## The OCE protocol
+The whole process is trimestrial and can be split in several steps: **Discussion**, **agreement**, **distribution**, **activities**, **validation**. The order is not blocked.
+The agents involved are: 
 
-I think the best strategy for growing ecosystem is to start as we mean to continue. Grants enable more of us to work on a large range of things.
+- OCE Working groups
+- User base / backers /funders
 
-Each grant will be : 
- - $5000 USD grants (payable in USD, BTC, ETH)
- - equivalent to 1 month of full-time work, if you would rather work part time, this can be spread out as makes sense (just say what you are doing in your proposal or dev diary)
-
+## OCE Working groups
+They are loosely group of people that converges together to work on specific proposals. A working group can have the lifespan of a grant, or it can continue working together endlessy.
+We encourage to make little working group, up to 4 people, to encourage the development of coincise and focused works, and to increase the chance to receive a sufficient income for each partecipant.
 
 > **FAQ** 
 > 
