@@ -39,6 +39,8 @@ The agents involved are:
 ## Working groups
 They are loosely group of people that converges together to work on specific proposals. A working group can have the lifespan of a grant, or it can continue working together endlessy.
 We encourage to make little working group, up to 4 people, to encourage the development of coincise and focused works and at the same time to increase the chance to receive a sufficient income for each partecipant.
+It is up to each working group to present with the proposal the needed budget and to organize among members how to split it.
+Based on the proposal, a working group can be also made by a single person.
 
 > **FAQ** 
 > 
