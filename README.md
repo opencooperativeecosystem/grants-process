@@ -3,7 +3,6 @@
 oce budget distribution is a way we are proposing to fund the open 
 cooperative ecosystem development. It aims to include different ways
 to work: part time, full time or targeted work.
-Budget is managed horizontally during monthly open assembly.
 
 This git repo was created to hold the various documentation
 we have of the process.
