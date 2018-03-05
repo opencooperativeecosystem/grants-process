@@ -1,26 +1,32 @@
-# Scuttlebutt grants
+# Open Cooperative Ecosystem budget distribution
 
 ## Background
 
-A group called [Dfinity](https://www.dfinity.org/) approached me (Dominic) offering a grant to support with the development of Scuttlebutt. They have proposed $200k USD, and are giving total freedom about how we manage it (their only requirement is that they need invoices for work / expenses).
+Since OCE starts, we adopted the Faircoop (Open Coop Work) budget distribution protocol to sustain ourselves.
+Basically it considers all people contributions in hours, as hour is the unit of measure adopted by the ecosystem to distribute income among partecipants, based on a rate agreed on the general assembly.
+Meanwhile this protocol can work well for basic coordination, it starts to become harder to organize looser, etherogenous and interconnected works based solely on the amount of hours a person logs.
+People feel easily discouraged to log their activities based on a hourly rate, a protocol more keen to an exploitation system, than a cooperative one. On the project management side, the whole workflow suffer from not being able to define activities in other ways rather than hours.
+The following proposal is a slighlty different way to organize our ecosystem activities flows, from budget approval to budget distribution.
 
-What I want:
+What we want:
 
+- income resilience for each member
 - growth of the ecosystem
 - happy healthy community
 - learning
 - simplicity (in the process)
 - excitment + celebration
-- movement towards other sources of income for ssb dev
 
-What I don't want:
+
+What we don't want:
 
 - people burning out
 - too much paperwork
-- 100% perfect completion
+- competition
+- centralization of power
 
-The most valuable thing we have is _the community_. Half the reason for grants is to give everyone
-a fair opportunity to get paid to work on scuttlebutt.
+The most valuable thing we have is _the community_. Half the reason for oce budget distribution is to give everyone
+a fair opportunity to get paid to work on OCE.
 
 ## An experiment in grants
 
