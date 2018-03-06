@@ -16,10 +16,6 @@ that needs to go in each monthly decision thread. It's source
 can be copied into a new thread to start the discussion for
 that month.
 
-[roles.md](./roles.md) is a description of the various roles
-in the grants process. If you are reading this, you are already
-playing a role!
-
 This process will likely evolve and changes can be made by creating
 pull requests to this repo and having discussions on 
 [telegram group](https://t.me/joinchat/Bdq2d0yDFbjRbE2VPKqgrA).
