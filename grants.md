@@ -35,7 +35,7 @@ The budget distribution lifespan goes from 1 month up to 3 months. Indipendently
 
 The agents involved are: 
 
-- OCE Working groups
+- Working groups
 - User base / backers /funders
 
 ## Working groups
